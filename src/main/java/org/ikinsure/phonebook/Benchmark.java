@@ -1,4 +1,4 @@
-package org.ikinsure.hard.phonebook;
+package org.ikinsure.phonebook;
 
 import java.time.Duration;
 import java.time.temporal.ChronoUnit;

@@ -1,4 +1,4 @@
-package org.ikinsure.hard.phonebook;
+package org.ikinsure.phonebook;
 
 import java.io.IOException;
 import java.nio.file.Files;
